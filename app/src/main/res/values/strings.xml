@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio02</string>
+    <string name="label_titulo">Titulo</string>
+    <string name="label_paper">The New York Times</string>
+</resources>
